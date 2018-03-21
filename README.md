@@ -1,2 +1,7 @@
 # hello-word
-to print hello
+#include<stdio.h>
+int main()
+{
+ printf("Hello Word");
+ return 0;
+ }
